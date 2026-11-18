@@ -1,0 +1,6 @@
+{
+  "name": "SNAP STYLE",
+  "description": "Fashion emergencies, solved fast. Instant-fashion delivery platform for curated Gen-Z clothing, bags, shoes and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
